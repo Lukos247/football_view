@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "291935714881",
+    "firebase_url": "https://dragon1-1e90f.firebaseio.com",
+    "project_id": "dragon1-1e90f",
+    "storage_bucket": "dragon1-1e90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291935714881:android:349c07cc706777486c10c0",
+        "android_client_info": {
+          "package_name": "com.bet.sportfreegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291935714881-1al2ojj71uf5ilje5fjqtd2mdvpm25up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB81OBTqz-wjOGsqU6IvcO0POMCm2Grg4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291935714881-1al2ojj71uf5ilje5fjqtd2mdvpm25up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291935714881:android:8b8bb909329c83fa",
+        "android_client_info": {
+          "package_name": "com.dragon.forever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291935714881-1al2ojj71uf5ilje5fjqtd2mdvpm25up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB81OBTqz-wjOGsqU6IvcO0POMCm2Grg4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291935714881-1al2ojj71uf5ilje5fjqtd2mdvpm25up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
